@@ -1,6 +1,6 @@
 # Atividade de Código Distribuido
 
-Descrição da Atividade
+**Descrição da Atividade**
 
 Este projeto tem como objetivo aplicar o algoritmo de paralelização para resolver o problema da multiplicação de matrizes, utilizando a arquitetura Cliente/Servidor com comunicação via protocolo TCP. A proposta envolve comparar o desempenho das abordagens sequencial, paralela e distribuída, medindo o tempo de execução de cada uma em milissegundos.
 
@@ -14,7 +14,7 @@ Protocolo de Comunicação: TCP
 
 IDE recomendada: qualquer que suporte Python (ex: VS Code, PyCharm, etc.)
 
-Estrutura do Projeto
+**Estrutura do Projeto**
 
 servidor.py – Código responsável por receber dados do cliente, realizar a multiplicação de matrizes e retornar o resultado.
 
